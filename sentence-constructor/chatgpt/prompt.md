@@ -34,6 +34,11 @@ The formatted output will generally contain three parts:
  - Remember to consider beginner level sentence structure 
 
  Here is an example of simple sentence structure:
+ - The bird is black. [Subject] [Adjective].
+ - The raven is in the garden. [Location] [Subject] [Verb].
+ - Put the garbage in the garden. [Location] [Object] [Verb].
+ - This morning I saw the raven. [Time] [Subject] [Object] [Verb].
+ - The raven is in the garden, and it is looking at the garbage. [Location] [Subject] [Verb] , [Object] [Verb].
  
  ### Clues and considerations
  - Try and provide a non-nested bulleted list
