@@ -99,4 +99,4 @@ Would you like to try forming the sentences? I can provide more hints if needed!
    <assistant:output>
 </example>
 
-Student input: Bears are at the door, did ypu leave the garbage out?
+Student input: Did you see the raven this morning? They were looking at our garden.
